@@ -7,7 +7,7 @@ rnorm(1000, mean = 10) %>% mean() %>% round(digits = 2)
 fun_mean <- function(x){
   sum(x) / length(x)
 }
-  fun_mean(x = swiss$Examination)
+fun_mean(x = swiss$Examination)
 fun_mean(x = swiss$Examination)
 hist(swiss$Examination)
 hist(swiss$Examination,

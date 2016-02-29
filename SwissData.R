@@ -1,3 +1,11 @@
+#Setting working directory
+setwd("/Users/mariamsanjush/Desktop/Assignment_1/Descriptive_Infertality_Data.R")
+#or
+setwd("~/Desktop/Assignment_1/Descriptive_Infertality_Data.R")
+
+getwd()
+
+
 data (swiss)
 names (swiss) 
 head(swiss[1:3, 1:4])

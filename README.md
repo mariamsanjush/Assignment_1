@@ -1,2 +1,4 @@
-This is my read me file me
-This is a shared folder
+# Assignment1
+Repository for Assignment 1
+This is the repository created specifically for our assignment.
+Mariam Sanjuch & Roberto Martinez B. Kukutschka
